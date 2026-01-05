@@ -1,5 +1,9 @@
 # 💫 About Me:
-Software professional with experience in web development, business/system analysis, and project coordination<br><br>Skilled in translating business requirements into practical and efficient digital solutions<br><br>Experienced in building user-friendly and scalable web applications<br><br>Strong analytical mindset with a focus on problem solving and continuous improvement<br><br>Interested in technology that delivers real value to businesses and users
+Software professional with experience as a Junior Software Developer, Junior Business/System Analyst, and Data Analyst, involved in web development, system analysis, and project coordination.<br><br>
+Skilled in translating business requirements into clear, practical, and efficient digital solutions that align with user and business needs.<br><br>
+Experienced in building user-friendly and scalable web applications, with attention to clean structure and maintainable code.<br><br>
+Strong analytical mindset with a passion for problem solving, data-driven insights, and continuous learning.<br><br>
+Highly motivated to grow in the tech industry and contribute to technology solutions that deliver real impact for businesses and users.
 
 
 ## 🌐 Socials:
