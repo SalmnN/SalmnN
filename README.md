@@ -1,11 +1,11 @@
 # 💫 About Me:
-🚀 Junior Software Developer | Junior Business/System Analyst | Data Analyst
-💻 Experience in web development, system & business analysis, and project coordination
-🔍 Able to translate business requirements into clear, practical, and efficient digital solutions
-🛠️ Build user-friendly and scalable web applications with clean and maintainable code
-📊 Strong analytical mindset with interest in data analysis and data-driven decision making
-📈 Passionate about problem solving, continuous learning, and professional growth
-🎯 Motivated to create technology solutions that deliver real value for businesses and users
+🚀 Junior Software Developer | Junior Business/System Analyst | Data Analyst <br>
+💻 Experience in web development, system & business analysis, and project coordination <br>
+🔍 Able to translate business requirements into clear, practical, and efficient digital solutions <br>
+🛠️ Build user-friendly and scalable web applications with clean and maintainable code <br>
+📊 Strong analytical mindset with interest in data analysis and data-driven decision making <br>
+📈 Passionate about problem solving, continuous learning, and professional growth <br>
+🎯 Motivated to create technology solutions that deliver real value for businesses and users <br>
 
 
 ## 🌐 Socials:
